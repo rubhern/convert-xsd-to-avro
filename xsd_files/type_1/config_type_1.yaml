@@ -1,0 +1,7 @@
+baseDir: "xsd_files/type_1"
+debug: false
+XSD:
+  xsdFile: "type_1.xsd"
+  avscFile: "type_1.avsc"
+  stringTimestamp: true
+  attributePrefix: "_"
